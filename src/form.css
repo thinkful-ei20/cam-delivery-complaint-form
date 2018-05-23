@@ -1,0 +1,9 @@
+.delivery-form {
+  display: block;
+  height: 300px;
+  width: 250px;
+}
+
+.delivery-form label, input {
+  display: block;
+}
